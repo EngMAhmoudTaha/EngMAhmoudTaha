@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on _VOIS<br>👯 I’m looking to collaborate with Network Automation Consultant<br>🤝 I’m looking for help with DevSecOps<br>🌱 I’m currently learning DevSecOps and AI<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as a Network Automation Consultant
+👯 I’m looking to collaborate on DevSecOps and Automation
+🤝 I’m looking for help with AI
+🌱 I’m currently learning DevSecOps and AI
+💬 Ask me about Network Automation and DevOps
 
 
 ## 🌐 Socials:
